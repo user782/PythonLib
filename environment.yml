@@ -1,0 +1,12 @@
+dependencies:
+  - python=3.9.2
+  - pip:
+    - spacy
+    - ipykernel
+    - scipy
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - pandas
+    - thinc
+    - pygame
