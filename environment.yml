@@ -10,3 +10,5 @@ dependencies:
     - pandas
     - thinc
     - pygame
+    - pyttsx
+    - pyinstaller
