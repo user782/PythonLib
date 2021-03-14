@@ -12,3 +12,9 @@ dependencies:
     - pygame
     - pyttsx
     - pyinstaller
+    - requests
+    - python-docx
+    - scrapy
+    - beautifulsoup4
+    - django
+    - flask
