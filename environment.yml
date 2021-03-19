@@ -20,3 +20,4 @@ dependencies:
     - django
     - flask
     - xeus-python
+    - jupyter-kite
