@@ -20,4 +20,4 @@ dependencies:
     - django
     - flask
     - xeus-python
-    - jupyter-kite
+    - "jupyterlab-kite>=2.0.2"
