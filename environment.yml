@@ -1,4 +1,5 @@
 dependencies:
+  - jupyterlab=3.0.7
   - python=3.9.2
   - xeus-cling
   - pip:
@@ -23,3 +24,4 @@ dependencies:
     - "jupyterlab-kite>=2.0.2"
     - ipywidgets
     - ipympl
+    - jupyterlab-python-file
