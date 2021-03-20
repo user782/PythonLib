@@ -24,4 +24,3 @@ dependencies:
     - ipywidgets
     - ipympl
     - jupyterlab-python-file
-    - jupyterlab_language_pack_zh_CN-0.0.1.dev0-py2.py3-none-any.whl
