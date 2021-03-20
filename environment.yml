@@ -22,4 +22,3 @@ dependencies:
     - xeus-python
     - "jupyterlab-kite>=2.0.2"
     - ipywidgets
-    - 
