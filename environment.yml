@@ -24,4 +24,4 @@ dependencies:
     - ipympl
     - jupyterlab-python-file
     - jupyter-lsp
-    - python-language-server[all]
+    - "python-language-server[all]"
